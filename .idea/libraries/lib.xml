@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://F:/resource/developLibrary/gson-2.7-sources.jar!/" />
+      <root url="jar://F:/resource/developLibrary/commons-beanutils-1.9.2-src.zip!/commons-beanutils-1.9.2-src/src/main/java" />
+      <root url="jar://F:/resource/developLibrary/commons-beanutils-1.9.2-src.zip!/commons-beanutils-1.9.2-src/src/test/java" />
+      <root url="jar://F:/resource/developLibrary/commons-lang-2.6-src.zip!/commons-lang-2.6-src/src/main/java" />
+      <root url="jar://F:/resource/developLibrary/commons-lang-2.6-src.zip!/commons-lang-2.6-src/src/test/java" />
+      <root url="jar://F:/resource/developLibrary/commons-lang3-3.4-src.zip!/commons-lang3-3.4-src/src/main/java" />
+      <root url="jar://F:/resource/developLibrary/commons-lang3-3.4-src.zip!/commons-lang3-3.4-src/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/lib" recursive="false" />
+  </library>
+</component>

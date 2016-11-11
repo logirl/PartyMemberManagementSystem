@@ -1,0 +1,27 @@
+.addButton {
+    margin-top: 20px;
+    margin-left: 10%;
+}
+
+.content {
+    min-height: 100%;
+}
+
+.content-header {
+    height: 80px;
+    background: #fff;
+    overflow: hidden;
+}
+
+.content-body {
+    overflow: hidden;
+}
+
+.content-test {
+    height: 600px;
+    width: 100%;
+}
+
+#layPage {
+    margin-top: 20px;
+}
