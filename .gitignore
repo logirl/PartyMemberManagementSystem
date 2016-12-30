@@ -1,0 +1,17 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+# Java:
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
+# My configurations:
+db.ini
+deploy_key_rsa
+.idea/workspace.xml
+out/
+web/static/h-ui/images/unslider/
+web/static/h-ui/lib/jquery.validation/1.14.0/demo/
